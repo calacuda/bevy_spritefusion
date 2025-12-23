@@ -126,6 +126,7 @@ The plugin expects the standard SpriteFusion JSON export format:
 ## Running the example
 
 ```bash
+git clone https://github.com/Hugo-Dz/bevy_spritefusion.git
 cd bevy_spritefusion
 cargo run --example basic
 ```
