@@ -2,9 +2,9 @@
 name = "bevy_spritefusion"
 version = "0.1.0"
 edition = "2021"
-license = "MIT OR Apache-2.0"
-description = "A Bevy plugin for loading SpriteFusion tilemap exports"
-repository = "https://github.com/spritefusion/bevy_spritefusion"
+license = "MIT"
+description = "A Bevy plugin for loading Sprite Fusion tilemap exports"
+repository = "https://github.com/Hugo-Dz/bevy_spritefusion"
 keywords = ["bevy", "tilemap", "spritefusion", "gamedev", "2d"]
 categories = ["game-development", "graphics", "rendering"]
 
